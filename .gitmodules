@@ -7,3 +7,6 @@
 [submodule "bundle/coffeescript"]
 	path = bundle/coffeescript
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/wombat-colorscheme"]
+	path = bundle/wombat-colorscheme
+	url = https://github.com/vim-scripts/Wombat.git
